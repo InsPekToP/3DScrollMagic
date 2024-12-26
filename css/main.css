@@ -134,7 +134,7 @@ video.frame-media_right{
     bottom: 5vh;
     right: 5vw;
     cursor: pointer;
-    width: 2vw;
+    height: 5vh;
     transition: .25s ease;
 }
 
